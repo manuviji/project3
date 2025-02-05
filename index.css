@@ -1,0 +1,125 @@
+.sec2{
+    background-image: url(image\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.beef{
+    background-color: rgba(0,0,0,0.543);
+    padding: 100px 0;
+}
+.sec3{
+    background-image: url(black\ bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 150px;
+}
+.line{
+    background-color: white;
+    width: 200px;
+    height: 2px;
+
+}
+.sec4{
+    background-image: url(SMOKE\ HOUSE.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 150px;
+}
+.flavor{
+    background-color: rgba(0,0,0,0.543);
+    padding: 100px 0;
+}
+.sec5{
+    background-image: url(image\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.CATERING{
+    background-color: rgba(0,0,0,0.543);
+    padding: 100px 0;
+}
+.sec6{
+    background-image: url(fry.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+   
+    .inbox1{
+        width: 10px;
+        height: 10px;
+    }
+    .line{
+        background-color: rgb(20, 1, 1);
+        width: 200px;
+        height: 2px;
+    }
+}
+.happy{
+    background-color: rgba(223, 208, 208, 0.719);
+    padding: 150px;
+
+}
+.sec7{
+    background-image: url(rub.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pic{
+    background-color: rgba(0, 0, 0, 0.719);
+    padding: 100px 0;
+}
+.sec8{
+    background-image: url(FIXED.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.FIXED{
+    background-color: rgba(0, 0, 0, 0.719);
+    padding: 100px 0;
+}
+.sec9{
+    background-image: url(happy\ images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.ROYAL{
+    background-color: rgba(209, 46, 10, 0.541);
+    padding: 100px 0;
+    .inbox1{
+        width: 10px;
+        height: 10px;
+    }
+    .line{
+        background-color: rgba(221, 212, 212, 0.863);
+        width: 200px;
+        height: 2px;
+    }
+}
+.sec10{
+    background-image: url(cooking\ img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.COOK{
+    background-color: rgba(97, 94, 93, 0.74);
+    padding: 100px 0;
+
+}
+.sec11 {
+    background-color: black;
+    height: 350px;
+}
+.sec12 {
+    background-color: black;
+    height: 100px;
+    
+}
+
